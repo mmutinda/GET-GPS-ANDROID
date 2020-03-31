@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Coordinates</string>
+    <string name="loading">Your location coordinates will appear here</string>
+</resources>
